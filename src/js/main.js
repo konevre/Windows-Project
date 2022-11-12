@@ -8,7 +8,7 @@ import timer from "./modules/timer";
 
 
 window.addEventListener("DOMContentLoaded", () => {
-    "use_strict";
+    "use strict";
 
     let modalState = {};
     let deadline = "2023-12-31";
